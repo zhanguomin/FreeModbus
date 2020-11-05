@@ -1,0 +1,10 @@
+.\output\timer.o: ..\RT-Thread-1.2.2\src\timer.c
+.\output\timer.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\timer.o: ..\APP\inc\rtconfig.h
+.\output\timer.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\timer.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\timer.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\timer.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\timer.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\timer.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\timer.o: ..\RT-Thread-1.2.2\include\rthw.h

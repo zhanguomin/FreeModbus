@@ -1,0 +1,14 @@
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\components\drivers\src\dataqueue.c
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\dataqueue.o: ..\APP\inc\rtconfig.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\dataqueue.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\components\drivers\include\rtdevice.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\components\drivers\include\drivers/serial.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\components\drivers\include\drivers/pin.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\components\drivers\include\rtdevice.h
+.\output\dataqueue.o: ..\RT-Thread-1.2.2\include\rthw.h

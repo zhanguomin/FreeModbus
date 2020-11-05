@@ -1,0 +1,13 @@
+.\output\portal.o: ..\RT-Thread-1.2.2\components\drivers\src\portal.c
+.\output\portal.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\portal.o: ..\APP\inc\rtconfig.h
+.\output\portal.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\portal.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\portal.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\portal.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\portal.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\portal.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\portal.o: ..\RT-Thread-1.2.2\components\drivers\include\rtdevice.h
+.\output\portal.o: ..\RT-Thread-1.2.2\components\drivers\include\drivers/serial.h
+.\output\portal.o: ..\RT-Thread-1.2.2\components\drivers\include\drivers/pin.h
+.\output\portal.o: ..\RT-Thread-1.2.2\components\drivers\include\rtdevice.h

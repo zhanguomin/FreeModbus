@@ -1,0 +1,10 @@
+.\output\memheap.o: ..\RT-Thread-1.2.2\src\memheap.c
+.\output\memheap.o: ..\RT-Thread-1.2.2\include\rthw.h
+.\output\memheap.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\memheap.o: ..\APP\inc\rtconfig.h
+.\output\memheap.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\memheap.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\memheap.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\memheap.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\memheap.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\memheap.o: ..\RT-Thread-1.2.2\include\rtthread.h

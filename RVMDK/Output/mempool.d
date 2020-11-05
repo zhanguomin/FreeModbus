@@ -1,0 +1,10 @@
+.\output\mempool.o: ..\RT-Thread-1.2.2\src\mempool.c
+.\output\mempool.o: ..\RT-Thread-1.2.2\include\rthw.h
+.\output\mempool.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\mempool.o: ..\APP\inc\rtconfig.h
+.\output\mempool.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\mempool.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\mempool.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\mempool.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\mempool.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\mempool.o: ..\RT-Thread-1.2.2\include\rtthread.h

@@ -1,0 +1,10 @@
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\src\cpuusage.c
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\cpuusage.o: ..\APP\inc\rtconfig.h
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\cpuusage.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\cpuusage.o: ..\RT-Thread-1.2.2\include\rthw.h

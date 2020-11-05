@@ -1,0 +1,10 @@
+.\output\clock.o: ..\RT-Thread-1.2.2\src\clock.c
+.\output\clock.o: ..\RT-Thread-1.2.2\include\rthw.h
+.\output\clock.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\clock.o: ..\APP\inc\rtconfig.h
+.\output\clock.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\clock.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\clock.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\clock.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\clock.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\clock.o: ..\RT-Thread-1.2.2\include\rtthread.h

@@ -1,0 +1,10 @@
+.\output\scheduler.o: ..\RT-Thread-1.2.2\src\scheduler.c
+.\output\scheduler.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\scheduler.o: ..\APP\inc\rtconfig.h
+.\output\scheduler.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\scheduler.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\scheduler.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\scheduler.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\scheduler.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\scheduler.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\scheduler.o: ..\RT-Thread-1.2.2\include\rthw.h

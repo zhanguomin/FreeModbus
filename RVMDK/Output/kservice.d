@@ -1,0 +1,10 @@
+.\output\kservice.o: ..\RT-Thread-1.2.2\src\kservice.c
+.\output\kservice.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\kservice.o: ..\APP\inc\rtconfig.h
+.\output\kservice.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\kservice.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\kservice.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\kservice.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\kservice.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\kservice.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\kservice.o: ..\RT-Thread-1.2.2\include\rthw.h

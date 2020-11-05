@@ -1,0 +1,14 @@
+.\output\pipe.o: ..\RT-Thread-1.2.2\components\drivers\src\pipe.c
+.\output\pipe.o: ..\RT-Thread-1.2.2\include\rthw.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\pipe.o: ..\APP\inc\rtconfig.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\pipe.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\components\drivers\include\rtdevice.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\components\drivers\include\drivers/serial.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\components\drivers\include\drivers/pin.h
+.\output\pipe.o: ..\RT-Thread-1.2.2\components\drivers\include\rtdevice.h

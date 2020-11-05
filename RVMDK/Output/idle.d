@@ -1,0 +1,10 @@
+.\output\idle.o: ..\RT-Thread-1.2.2\src\idle.c
+.\output\idle.o: ..\RT-Thread-1.2.2\include\rthw.h
+.\output\idle.o: ..\RT-Thread-1.2.2\include\rtthread.h
+.\output\idle.o: ..\APP\inc\rtconfig.h
+.\output\idle.o: ..\RT-Thread-1.2.2\include\rtdebug.h
+.\output\idle.o: ..\RT-Thread-1.2.2\include\rtdef.h
+.\output\idle.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\idle.o: ..\RT-Thread-1.2.2\include\rtservice.h
+.\output\idle.o: ..\RT-Thread-1.2.2\include\rtm.h
+.\output\idle.o: ..\RT-Thread-1.2.2\include\rtthread.h
